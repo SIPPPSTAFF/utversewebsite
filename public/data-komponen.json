@@ -1,0 +1,36 @@
+{ 
+    "status": 200,
+    "values": [
+        {
+            "kode_fokus": "1",
+            "keterangan": "Fokus Bidang Akademik",
+            "kode_komponen_rpjp": "1.1",
+            "nama_komponen": "Program Pendidikan"
+        },{
+            "kode_fokus": "1",
+            "keterangan": "Fokus Bidang Akademik",
+            "kode_komponen_rpjp": "1.2",
+            "nama_komponen": "Kurikulum"
+        },{
+            "kode_fokus": "1",
+            "keterangan": "Fokus Bidang Akademik",
+            "kode_komponen_rpjp": "1.3",
+            "nama_komponen": "Pembelajaran"
+        },{
+            "kode_fokus": "2",
+            "keterangan": "Fokus Tata Kelola",
+            "kode_komponen_rpjp": "2.1",
+            "nama_komponen": "Penjaminan Mutu"
+        },{
+            "kode_fokus": "2",
+            "keterangan": "Fokus Tata Kelola",
+            "kode_komponen_rpjp": "2.2",
+            "nama_komponen": "Kelembagaan"
+        },{
+            "kode_fokus": "2",
+            "keterangan": "Fokus Tata Kelola",
+            "kode_komponen_rpjp": "2.3",
+            "nama_komponen": "Struktur"
+        }
+    ]
+}

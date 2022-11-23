@@ -1,0 +1,40 @@
+{
+    "Kegiatan": [
+        {
+            "kode_kegiatan": "12",
+            "nama": "''",
+            "sub": [
+                {
+                    "kode_tabel":"1",
+                    "tabel A": [
+                        {
+                            "kode_kegiatan": "12",
+                            "kode_tabel_a": "'12.1'",
+                            "nama_tabel_a": "''",
+                            "sub_tabel_a": [
+                                {
+                                    "nama_sub":""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kode_tabel":"2",
+                    "tabel B": [
+                        {
+                            "kode_kegiatan": "12",
+                            "kode_tabel_b": "12.2",
+                            "nama_tabel_b": "''",
+                            "sub_tabel_b": [
+                                {
+                                    "nama_sub":""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

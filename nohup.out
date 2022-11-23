@@ -1,0 +1,41 @@
+
+> utverse-portal@0.1.0 start
+> export PORT=5858 && HTTPS=true SSL_CRT_FILE=/opt/certificate/ut2022-upd.crt SSL_KEY_FILE=/opt/certificate/ut2022-upd.key react-scripts start
+
+(node:15724) [DEP_WEBPACK_DEV_SERVER_HTTPS] DeprecationWarning: 'https' option is deprecated. Please use the 'server' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:15724) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:15724) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+Failed to parse source map: 'webpack://antd/./components/config-provider/style/index.less' URL is not supported
+
+Failed to parse source map: 'webpack://antd/./components/icon/style/index.less' URL is not supported
+
+Failed to parse source map: 'webpack://antd/./components/locale-provider/style/index.less' URL is not supported
+
+Failed to parse source map: 'webpack://antd/./components/time-picker/style/index.less' URL is not supported
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/antd/dist/antd.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/antd/dist/antd.css)
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map: 'webpack://antd/./components/config-provider/style/index.less' URL is not supported
+
+WARNING in ./node_modules/antd/dist/antd.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/antd/dist/antd.css)
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map: 'webpack://antd/./components/icon/style/index.less' URL is not supported
+
+WARNING in ./node_modules/antd/dist/antd.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/antd/dist/antd.css)
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map: 'webpack://antd/./components/locale-provider/style/index.less' URL is not supported
+
+WARNING in ./node_modules/antd/dist/antd.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/antd/dist/antd.css)
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map: 'webpack://antd/./components/time-picker/style/index.less' URL is not supported
+
+webpack compiled with 4 warnings
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.

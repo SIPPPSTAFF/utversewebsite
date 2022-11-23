@@ -1,0 +1,36 @@
+{
+    "status": 200,
+    "values": [
+        {
+            "kode_sastra_rpjp": "1.1.1.1",
+            "sastra": "Sastra Mantap",
+            "tahap_tahun": "2021-2034",
+            "kode_komponen_rpjp_sub": "1.1.1",
+            "nama_komponen_sub": "Sub Komponen gan",
+            "kode_komponen_rpjp": "1.1",
+            "nama_komponen": "Komponen 1",
+            "kode_fokus": "1",
+            "keterangan": "Fokus ke Kamu"
+        },{
+            "kode_sastra_rpjp": "1.1.1.1",
+            "sastra": "Sastra Mantap",
+            "tahap_tahun": "2021-2034",
+            "kode_komponen_rpjp_sub": "1.1.1",
+            "nama_komponen_sub": "Sub Komponen gan",
+            "kode_komponen_rpjp": "1.1",
+            "nama_komponen": "Komponen 1",
+            "kode_fokus": "1",
+            "keterangan": "Fokus ke Kamu"
+        },{
+            "kode_sastra_rpjp": "1.1.1.1",
+            "sastra": "Sastra Mantap",
+            "tahap_tahun": "2021-2034",
+            "kode_komponen_rpjp_sub": "1.1.1",
+            "nama_komponen_sub": "Sub Komponen gan",
+            "kode_komponen_rpjp": "1.1",
+            "nama_komponen": "Komponen 1",
+            "kode_fokus": "1",
+            "keterangan": "Fokus ke Kamu"
+        }
+    ]
+}

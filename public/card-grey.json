@@ -1,0 +1,101 @@
+{
+    "status": 200,
+    "values": [
+        {
+            "id": "1",
+            "image": "e-budgeting.png",
+            "nama_aplikasi": "E-Budgeting",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "2",
+            "image": "sippan.png",
+            "nama_aplikasi": "SI-PPan",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "3",
+            "image": "panutan.png",
+            "nama_aplikasi": "Panutan",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "4",
+            "image": "e-proc.png",
+            "nama_aplikasi": "E-Proc",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "5",
+            "image": "eis.png",
+            "nama_aplikasi": "EIS",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "6",
+            "image": "si-akun.png",
+            "nama_aplikasi": "Si-Akun",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "7",
+            "image": "e-asset.png",
+            "nama_aplikasi": "E-Asset",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "8",
+            "image": "e-sign.png",
+            "nama_aplikasi": "E-Sign",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "9",
+            "image": "e-expenditure.png",
+            "nama_aplikasi": "E-Expenditure",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "10",
+            "image": "emr.png",
+            "nama_aplikasi": "E-MR",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "11",
+            "image": "user_management.png",
+            "nama_aplikasi": "User Management",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "12",
+            "image": "e-hr.png",
+            "nama_aplikasi": "E-HR & Payroll",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan.",
+            "url": "#"
+        },
+        {
+            "id": "13",
+            "image": "e-revenue.png",
+            "nama_aplikasi": "E-Revenue",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan."
+        },
+        {
+            "id": "14",
+            "image": "bppu.png",
+            "nama_aplikasi": "BPPU",
+            "keterangan": "Sistem Informasi Penganggaran Keuangan."
+        }
+    ]
+}

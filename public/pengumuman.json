@@ -1,0 +1,30 @@
+{
+    "status": "Success",
+    "message": "Pesan Tertangkap",
+    "data": [
+        {
+            "kode_pengumuman": "01",
+            "title": "Pengumuman 1",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "url": "#",
+            "image": "penggajian.png"
+        },
+        {
+            "kode_pengumuman": "02",
+            "title": "Pengumuman 2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "url": "#",
+            "image": "rpjpfinal.png"
+        },
+        {
+            "kode_pengumuman": "03",
+            "title": "Pengumuman 3",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "url": "#",
+            "image": "rec.png"
+        }
+    ],
+    "meta": "",
+    "page": "",
+    "limit": ""
+}

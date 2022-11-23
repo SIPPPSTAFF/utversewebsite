@@ -1,0 +1,61 @@
+{
+    "status": 200,
+    "values": [
+        {
+            "kode_fokus": "1",
+            "keterangan": "Fokus Bidang Akademik",
+            "komponen": [
+                {
+                    "kode_komponen_rpjp": "1.1",
+                    "nama_komponen": "Sarjana",
+                    "sub_komponen": [
+                        {
+                            "kode_komponen_rpjp_sub": "1.2.1",
+                            "nama_komponen_sub": "Sarjana Pendidikan"
+                        }
+                    ]
+                },
+                {
+                    "kode_komponen_rpjp": "1.3",
+                    "nama_komponen": "Magister",
+                    "sub_komponen": []
+                },
+                {
+                    "kode_komponen_rpjp": "1.2",
+                    "nama_komponen": "Diploma",
+                    "sub_komponen": [
+                        {
+                            "kode_komponen_rpjp_sub": "1.2.1",
+                            "nama_komponen_sub": "Diploma 1"
+                        },
+                        {
+                            "kode_komponen_rpjp_sub": "1.2.2",
+                            "nama_komponen_sub": "Diploma 2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kode_fokus": "2",
+            "keterangan": "Fokus Bidang Keuangan",
+            "komponen": [
+                {
+                    "kode_komponen_rpjp": "2.1",
+                    "nama_komponen": "Keuangan 1",
+                    "sub_komponen": []
+                },
+                {
+                    "kode_komponen_rpjp": "2.2",
+                    "nama_komponen": "Keuangan 2",
+                    "sub_komponen": [
+                        {
+                            "kode_komponen_rpjp_sub": "2.2.1",
+                            "nama_komponen_sub": "Pendidikan Terakhir"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

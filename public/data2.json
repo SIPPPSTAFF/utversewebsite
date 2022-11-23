@@ -1,0 +1,184 @@
+{
+    "status": 200,
+    "values": [
+        {
+            "kode_fokus": "1",
+            "keterangan": "Fokus Bidang Akademik",
+            "kode_komponen_rpjp": "1.1",
+            "nama_komponen": "Program Pendidikan",
+            "sub_komponen": [
+                {
+                    "kode_komponen_rpjp_sub": "1.1.1",
+                    "nama_komponen_sub": "Program Pendidikan",
+                    "sub_sub_komponen": [
+                        {
+                            "kode_sastra": "1.1.1.1",
+                            "sastra": "Tahap 1",
+                            "tahun": [
+                                {
+                                    "tahun": "2021",
+                                    "isi": "Menyediakan program pendidikan bergelar dan sertifikat."
+                                },
+                                {
+                                    "tahun": "2022",
+                                    "isi": "Menyediakan program pendidikan bergelar dan sertifikat."
+                                },
+                                {
+                                    "tahun": "2023",
+                                    "isi": "Menyediakan program pendidikan bergelar dan sertifikat."
+                                },
+                                {
+                                    "tahun": "2024",
+                                    "isi": "Menyediakan program pendidikan bergelar dan sertifikat."
+                                },
+                                {
+                                    "tahun": "2025",
+                                    "isi": "Menyediakan program pendidikan bergelar dan sertifikat."
+                                }
+                            ]
+                        },
+                        {
+                            "kode_sub_sub_komponen": "1.1.1.2",
+                            "sub_sub_komponen": "Tahap 2",
+                            "tahun": [
+                                {
+                                    "tahun": "2026",
+                                    "isi": "-"
+                                },
+                                {
+                                    "tahun": "2027",
+                                    "isi": "Menyediakan layanan  career development  bagi lulusan yang pertama kali memasuki dunia kerja dan yang sudah bekerja melalui program life-long learning."
+                                },
+                                {
+                                    "tahun": "2028",
+                                    "isi": "Menyediakan layanan  career development  bagi lulusan yang pertama kali memasuki dunia kerja dan yang sudah bekerja melalui program life-long learning."
+                                },
+                                {
+                                    "tahun": "2029",
+                                    "isi": "Menyediakan layanan  career development  bagi lulusan yang pertama kali memasuki dunia kerja dan yang sudah bekerja melalui program life-long learning."
+                                },
+                                {
+                                    "tahun": "2030",
+                                    "isi": "Menyediakan layanan  career development  bagi lulusan yang pertama kali memasuki dunia kerja dan yang sudah bekerja melalui program life-long learning."
+                                }
+                            ]
+                        },
+                        {
+                            "kode_sub_sub_komponen": "1.1.1.3",
+                            "sub_sub_komponen": "Tahap 3",
+                            "tahun": [
+                                {
+                                    "tahun": "2031",
+                                    "isi": "Menyediakan program pendidikan bergelar dan sertifikat"
+                                },
+                                {
+                                    "tahun": "2032",
+                                    "isi": "Melakukan inter-link dan kolaborasi dengan dunia usaha dan Industri dengan target 30% program UT telah interlinked dengan bisnis/industry, dalam bentuk microcredential. "
+                                },
+                                {
+                                    "tahun": "2033",
+                                    "isi": "Melakukan inter-link dan kolaborasi dengan Industri target 70% program UT telah interlinked dengan bisnis/industri, dalam bentuk microcredential "
+                                },
+                                {
+                                    "tahun": "2034",
+                                    "isi": "Melakukan inter-link dan kolaborasi dengan Industri dengan target 100% program UT telah inter-linked dengan bisnis/industri, dalam bentuk microcredential."
+                                },
+                                {
+                                    "tahun": "2035",
+                                    "isi": "Melakukan inter-link dan kolaborasi dengan Industri dengan target 100% program UT telah inter-linked dengan bisnis/industri, dalam bentuk microcredential."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kode_fokus": "1",
+            "keterangan": "Fokus Bidang Akademik",
+            "kode_komponen_rpjp": "1.2",
+            "nama_komponen": "Pembelajaran",
+            "sub_komponen": [
+                {
+                    "kode_komponen_rpjp_sub": "1.2.1",
+                    "nama_komponen_sub": "Bahan Ajar",
+                    "sub_sub_komponen": [
+                        {
+                            "kode_sub_sub_komponen": "1.2.1.1",
+                            "sub_sub_komponen": "Tahap 1",
+                            "tahun": []
+                        },
+                        {
+                            "kode_sub_sub_komponen": "1.2.1.2",
+                            "sub_sub_komponen": "Tahap 2",
+                            "tahun": []
+                        },
+                        {
+                            "kode_sub_sub_komponen": "1.2.1.3",
+                            "sub_sub_komponen": "Tahap 3",
+                            "tahun": []
+                        }
+                    ]
+                },
+                {
+                    "kode_komponen_rpjp_sub": "1.2.2",
+                    "nama_komponen_sub": "Desain Pembelajaran",
+                    "sub_sub_komponen": [
+                        {
+                            "kode_sub_sub_komponen": "1.2.2.1",
+                            "sub_sub_komponen": "Tahap 1",
+                            "tahun": []
+                        },
+                        {
+                            "kode_sub_sub_komponen": "1.2.2.2",
+                            "sub_sub_komponen": "Tahap 2",
+                            "tahun": []
+                        },
+                        {
+                            "kode_sub_sub_komponen": "1.2.2.3",
+                            "sub_sub_komponen": "Tahap 3",
+                            "tahun": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kode_fokus": "1",
+            "keterangan": "Fokus Bidang Akademik",
+            "kode_komponen_rpjp": "1.3",
+            "nama_komponen": "Kurikulum",
+            "sub_komponen": [
+                {
+                    "kode_komponen_rpjp_sub": "1.3.1",
+                    "nama_komponen_sub": "KTSP"
+                },
+                {
+                    "kode_komponen_rpjp_sub": "1.3.2",
+                    "nama_komponen_sub": "K13"
+                }
+            ]
+        },
+        {
+            "kode_fokus": "2",
+            "keterangan": "Fokus Tata Kelola",
+            "kode_komponen_rpjp": "2.1",
+            "nama_komponen": "Penjaminan Mutu",
+            "sub_komponen": []
+        },
+        {
+            "kode_fokus": "2",
+            "keterangan": "Fokus Tata Kelola",
+            "kode_komponen_rpjp": "2.2",
+            "nama_komponen": "Kelembagaan",
+            "sub_komponen": []
+        },
+        {
+            "kode_fokus": "2",
+            "keterangan": "Fokus Tata Kelola",
+            "kode_komponen_rpjp": "2.3",
+            "nama_komponen": "Struktur",
+            "sub_komponen": []
+        }
+    ]
+}

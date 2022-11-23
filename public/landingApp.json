@@ -1,0 +1,35 @@
+{
+    "status": 200,
+    "values": [
+        {
+            "id": "1",
+            "icon": "Ebudget",
+            "title": "E-Budgeting",
+            "description": "Sistem Informasi Penganggaran Keuangan."
+        },
+        {
+            "id": "2",
+            "icon": "Sippan",
+            "title": "SI-PPan",
+            "description": "Sistem Informasi Perencanaan dan Pengadaan."
+        },
+        {
+            "id": "3",
+            "icon": "Panutan",
+            "title": "Panutan",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "id": "4",
+            "icon": "Eproc",
+            "title": "E-Proc",
+            "description": "Sistem Informasi Pengadaan Barang dan Jasa."
+        },
+        {
+            "id": "5",
+            "icon": "Eis",
+            "title": "Eis",
+            "description": "Executive Information System ."
+        }
+    ]
+}

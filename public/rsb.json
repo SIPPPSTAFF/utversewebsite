@@ -1,0 +1,83 @@
+{
+    "Komponen_rsb": [
+        {
+            "kode_komponen_rpjp_sub": "1.1.1",
+            "nama_komponen_sub": "Program Pendidikan",
+            "Sastra_rsb": [
+                {
+                    "kode_sastra_rpjp": "1.1.1.1",
+                    "sastra": "Menyediakan program pendidikan gelar, sertifikat  ",
+                    "Program_rsb": [
+                        {
+                            
+                            "kode_program_rsb": "1.1.1.1.1",
+                            "program_rsb": "Penyediaan Program Pendidikan Bergelar apaaaa",
+                            "Kegiatan_rsb": [
+                                {
+                                    "kode_kegiatan_rsb": "1.1.1.1.1.2",
+                                    "kegiatan_rsb": "contoh kegiatan update test",
+                                    "Indikator_rsb": [
+                                        {
+                                            "kode_indikator_sasaran_rsb": "1.1.1.1.1.2.1",
+                                            "indikator_sasaran_rsb": "indikator sasaran 2",
+                                            "definis_operasional": "definisi 2",
+                                            "capaian1": "2",
+                                            "capaian2": "4",
+                                            "capaian3": "6",
+                                            "capaian4": "8",
+                                            "capaian5": "10"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "kode_kegiatan_rsb": "1.1.1.1.1.3",
+                                    "kegiatan_rsb": "test kegiatan",
+                                    "Indikator_rsb": [
+                                        {
+                                            "kode_indikator_sasaran_rsb": "1.1.1.1.1.3.2",
+                                            "indikator_sasaran_rsb": "Nama Test Indisas",
+                                            "definis_operasional": "Definisi Operasi Indisas",
+                                            "capaian1": "56",
+                                            "capaian2": "55",
+                                            "capaian3": "78",
+                                            "capaian4": "67",
+                                            "capaian5": "90"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kode_sastra_rpjp": "1.1.1.2",
+                    "sastra": "Menyediakan program pendidikan gelar, sertifikat",
+                    "Program_rsb": [
+                        {
+                            "kode_program_rsb": "1.1.1.2.1",
+                            "program_rsb": "program pendidikan bergelar",
+                            "Kegiatan_rsb": [
+                                {
+                                    "kode_kegiatan_rsb": "1.1.1.1.2.1",
+                                    "kegiatan_rsb": "none",
+                                    "Indikator_rsb": [
+                                        {
+                                            "kode_indikator_sasaran_rsb": "1.1.1.1.1.3.1",
+                                            "indikator_sasaran_rsb": "indikator sasaran 2",
+                                            "definis_operasional": "definisi 2 Edit",
+                                            "capaian1": "1",
+                                            "capaian2": "2",
+                                            "capaian3": "3",
+                                            "capaian4": "4",
+                                            "capaian5": "5"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
