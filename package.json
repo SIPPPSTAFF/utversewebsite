@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
-    "start": "export PORT=5858 && HTTPS=true SSL_CRT_FILE=/opt/certificate/ut2022-upd.crt SSL_KEY_FILE=/opt/certificate/ut2022-upd.key react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
