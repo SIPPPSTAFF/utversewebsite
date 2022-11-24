@@ -72,10 +72,10 @@ function AppHero() {
         
       </div>
       <div className="space-around bg-header ">
-        <div className="md:pt-60 md:ml-16 ml-36 mb-10 pt-20 ">
-          <div className="Buttonlogin">
-            <div class="md:mb-2 md:w-4/12 md:pt-5 mb-96">
-              <div class="inline-flex items-center justify-center">
+        <div className="md:pt-60 md:ml-16 ml-36 mb-5 pt-20 ">
+          <div className="Buttonlogin justify-center items-center inset-0">
+            <div class="md:mb-2  md:pt-5">
+              <div class="inline-flex items-center justify-center inset-0">
               <button
                       //onClick={handleLogout}
                      
