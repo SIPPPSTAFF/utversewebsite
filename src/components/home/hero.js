@@ -21,7 +21,7 @@ import {
   EyeInvisibleOutlined,
   EyeTwoTone,
 } from "@ant-design/icons";
-import AppCard from "./cardApp";
+
 import Tentang from "./Tentang";
 
 function AppHero() {
@@ -194,7 +194,7 @@ function AppHero() {
       {sessionStorage.getItem("token") ? (
         <section id="aplikasi">
           
-          <AppCard />
+          
         </section>
       ) : (
         <>

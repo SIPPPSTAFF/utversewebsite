@@ -6,7 +6,7 @@ import AppFooter from "../components/common/footer";
 // import AppHeader from "../components/common/Header";
 import Logout from "../assets/images/landing/logo_ut.png";
 import AppHero from "../components/home/hero";
-import AppCard from "../components/home/cardApp";
+
 import NavbarLanding from "../components/common/Headerfix";
 import AppTicket from "../components/common/ticket";
 import News from "../components/home/News";
